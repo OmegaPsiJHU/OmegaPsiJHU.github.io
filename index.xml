@@ -30,12 +30,21 @@
     </item>
     
     <item>
-      <title>Angela Wang</title>
-      <link>https://OmegaPsiJHU.github.io/board/angela-wang/</link>
-      <pubDate>Fri, 18 Aug 2017 12:53:02 -0500</pubDate>
+      <title>Sophia Song</title>
+      <link>https://OmegaPsiJHU.github.io/board/sophia-song/</link>
+      <pubDate>Wed, 23 Aug 2017 12:45:59 -0500</pubDate>
       
-      <guid>https://OmegaPsiJHU.github.io/board/angela-wang/</guid>
-      <description>Angela Wang is a junior majoring in public health and psychology. Her research interests are clinical and cognitive psychology. She loves to watch Netflix and korean dramas in her free time and is excited to contribute more to Omega Psi this semester.</description>
+      <guid>https://OmegaPsiJHU.github.io/board/sophia-song/</guid>
+      <description>Sophia is a junior majoring in cognitive science with focal areas in neuroscience and computational approaches to cognition. She is pre-med and participates in research at JHMI regarding action timing in the visual system.</description>
+    </item>
+    
+    <item>
+      <title>Kiley McKee</title>
+      <link>https://OmegaPsiJHU.github.io/board/kiley-mckee/</link>
+      <pubDate>Wed, 23 Aug 2017 09:54:40 -0500</pubDate>
+      
+      <guid>https://OmegaPsiJHU.github.io/board/kiley-mckee/</guid>
+      <description>Kiley is a sophomore Cognitive Science and Psychology double major at Johns Hopkins University. She is currently working on a project involving spatial thinking and 3rd grade STEM curriculum development with Hopkins&amp;rsquo; Science of Learning Institute. In the future, Kiley hopes to continue bridging the gap between science of learning research and education.</description>
     </item>
     
     <item>
@@ -44,7 +53,16 @@
       <pubDate>Thu, 02 Mar 2017 21:56:55 +0100</pubDate>
       
       <guid>https://OmegaPsiJHU.github.io/board/coleman-haley/</guid>
-      <description>Arunima is a senior majoring in Cognitive Science with focal areas in linguistics and neuroscience. She researches the development of perceptual and mental verbs in children, and is also interested in the using art as a therapeutic method for developmental disorders. Following college, she plans on attending medical school to pursue her aspiration of becoming a physician-researcher concentrated on global care and linguistic development of Autistic populations.</description>
+      <description>Coleman is a sophomore majoring in computer science and cognitive science with focal areas in linguistics and computational approaches to cognition. He is interested in human-computer interaction, particularly through linguistic interfaces. He will be working on a project in the phonology lab this fall.</description>
+    </item>
+    
+    <item>
+      <title>Angela Wang</title>
+      <link>https://OmegaPsiJHU.github.io/board/angela-wang/</link>
+      <pubDate>Fri, 18 Aug 2017 12:53:02 -0500</pubDate>
+      
+      <guid>https://OmegaPsiJHU.github.io/board/angela-wang/</guid>
+      <description>Angela is a junior majoring in public health and psychology. Her research interests are clinical and cognitive psychology. She loves to watch Netflix and korean dramas in her free time and is excited to contribute more to Omega Psi this semester.</description>
     </item>
     
     <item>
@@ -55,6 +73,15 @@
       <guid>https://OmegaPsiJHU.github.io/docs/quick-start/</guid>
       <description>Basic Template With Kube, you can set up your web framework and be on your way in under a minute. Just add this code to your web page for the basic template to take effect immediately.
 &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;title&amp;gt;Basic Template&amp;lt;/title&amp;gt; &amp;lt;meta charset=&#34;utf-8&#34;&amp;gt; &amp;lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34;&amp;gt; &amp;lt;!-- Kube CSS --&amp;gt; &amp;lt;link rel=&#34;stylesheet&#34; href=&#34;assets/css/kube.css&#34;&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;h1&amp;gt;Hello, world!&amp;lt;/h1&amp;gt; &amp;lt;!-- Kube JS + jQuery are used for some functionality, but are not required for the basic setup --&amp;gt; &amp;lt;script src=&#34;</description>
+    </item>
+    
+    <item>
+      <title>Aditi Kannan</title>
+      <link>https://OmegaPsiJHU.github.io/board/aditi-kannan/</link>
+      <pubDate>Wed, 23 Aug 2017 13:03:13 -0500</pubDate>
+      
+      <guid>https://OmegaPsiJHU.github.io/board/aditi-kannan/</guid>
+      <description>Aditi is a senior majoring in Cognitive Science with focal areas in neuroscience and linguistics. She has done research in neuroengineering and instrumentation, working on sensory substitution mechanisms and prosthetic limb technology. She is interested in the area of consumer decision making, and the role of BCI (Brain Computer Interface) models in understanding the influencers of economic decisions in the marketplace.</description>
     </item>
     
     <item>
