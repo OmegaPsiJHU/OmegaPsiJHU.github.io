@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title> Blogs </title>
+  <title> News </title>
 
   
   
@@ -29,7 +29,7 @@
 
 
 
-<meta property="og:updated_time" content="2017-04-10T16:42:50&#43;01:00"/>
+<meta property="og:updated_time" content="2017-04-10T16:41:34&#43;01:00"/>
 
 
 
@@ -105,15 +105,35 @@
     </li>
     
     <li>
-      <a href="/about/"  data-component="dropdown" data-target="#about-dropdown">Who We Are<span class="caret down"></span></a>
+      <a href="/about/"  data-component="dropdown" data-target="#who-dropdown">Who We Are<span class="caret down"></span></a>
       
-        <div class="dropdown hide" id="about-dropdown">
+        <div class="dropdown hide" id="who-dropdown" style="overflow: hidden;">
           <ul>
           
-            <li><a href="/about/board/">Board</a></li>
+            <li><a href="/about/">About Us</a></li>
+          
+            <li><a href="/board/">Board</a></li>
           
           </ul>
         </div>
+      
+    </li>
+    
+    <li>
+      <a href="/conference/"  data-component="dropdown" data-target="#conference-dropdown">Conference<span class="caret down"></span></a>
+      
+        <div class="dropdown hide" id="conference-dropdown" style="overflow: hidden;">
+          <ul>
+          
+            <li><a href="/conference/past/">Past Conferences</a></li>
+          
+          </ul>
+        </div>
+      
+    </li>
+    
+    <li>
+      <a href="/contact/"  >Contact Us</a>
       
     </li>
     
@@ -121,9 +141,6 @@
     </nav>
     <nav id="top-nav-extra">
       <ul>
-        <li>
-          <a href="/account/">Account</a>
-        </li>
       </ul>
     </nav>
   </div> </header>
@@ -131,11 +148,20 @@
 
 <div id="hero" class="wrap">
   <h1>News</h1>
-    <p>Our vision, news and ideas, and whatever feels important.<br> <a href="">Follow us on Twitter</a></p>
+    <p>Our vision, news and ideas, and whatever feels important.<br> <a href="https://www.facebook.com/jhu.omegapsi/">Check us out on Facebook</a></p>
 </div>
 <ul id="posts">
-
-  <div itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="centerblock">
+        <div class="inner">
+          <div itemscope itemtype="http://schema.org/CreativeWork">
+    <h1 class="title">
+        <a href="https://OmegaPsiJHU.github.io/blog/messages/" itemprop="headline">Messages</a>
+    </h1>
+    <hr>
+    
+    <p itemprop="about">Versatile and refined messages, ideal for daily use</p>
+    
+</div>  <div itemscope itemtype="http://schema.org/CreativeWork">
     <h1 class="title">
         <a href="https://OmegaPsiJHU.github.io/blog/collapse/" itemprop="headline">Collapse</a>
     </h1>
@@ -152,7 +178,8 @@
     <p itemprop="about">This article is just a demo.</p>
     
 </div> 
-  <section><nav class="pagination pager align-center">
+         </div>
+      <section><nav class="pagination pager align-center">
             <hr>
     <ul>
            
@@ -165,6 +192,7 @@
             
     </ul>
 </nav></section>
+     </div>
 </ul>
 
 </main>

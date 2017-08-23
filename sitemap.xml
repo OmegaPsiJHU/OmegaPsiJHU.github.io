@@ -3,7 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://OmegaPsiJHU.github.io/blog/welcome/</loc>
+    <loc>https://OmegaPsiJHU.github.io/board/anne-li/</loc>
+    <lastmod>2017-08-20T14:03:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://OmegaPsiJHU.github.io/board/arunima-vijay/</loc>
+    <lastmod>2017-08-18T12:26:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://OmegaPsiJHU.github.io/board/angela-wang/</loc>
+    <lastmod>2017-08-18T12:53:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://OmegaPsiJHU.github.io/board/coleman-haley/</loc>
     <lastmod>2017-03-02T21:56:55+01:00</lastmod>
   </url>
   
@@ -12,20 +27,16 @@
   </url>
   
   <url>
+    <loc>https://OmegaPsiJHU.github.io/blog/minutes_2-7-17/</loc>
+    <lastmod>2017-02-07T15:13:41-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://OmegaPsiJHU.github.io/docs/custom-plugins/</loc>
   </url>
   
   <url>
     <loc>https://OmegaPsiJHU.github.io/docs/typography/</loc>
-  </url>
-  
-  <url>
-    <loc>https://OmegaPsiJHU.github.io/blog/typography/</loc>
-  </url>
-  
-  <url>
-    <loc>https://OmegaPsiJHU.github.io/blog/prototyping/</loc>
-    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
   </url>
   
   <url>
@@ -50,11 +61,6 @@
   <url>
     <loc>https://OmegaPsiJHU.github.io/docs/labels/</loc>
     <lastmod>2017-04-10T16:40:43+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://OmegaPsiJHU.github.io/blog/messages/</loc>
-    <lastmod>2017-04-10T16:41:34+01:00</lastmod>
   </url>
   
   <url>
@@ -90,11 +96,6 @@
   <url>
     <loc>https://OmegaPsiJHU.github.io/docs/sticky/</loc>
     <lastmod>2017-04-10T16:42:26+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://OmegaPsiJHU.github.io/blog/collapse/</loc>
-    <lastmod>2017-04-10T16:42:50+01:00</lastmod>
   </url>
   
   <url>
@@ -138,13 +139,34 @@
   </url>
   
   <url>
-    <loc>https://OmegaPsiJHU.github.io/blog/inline-style/</loc>
-    <lastmod>2017-04-02T21:56:55+01:00</lastmod>
+    <loc>https://OmegaPsiJHU.github.io/conference/past/</loc>
+    <lastmod>2017-08-20T22:15:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://OmegaPsiJHU.github.io/conference/past/2016/</loc>
+    <lastmod>2017-08-20T22:07:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://OmegaPsiJHU.github.io/conference/conference/</loc>
+    <lastmod>2017-08-20T21:51:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://OmegaPsiJHU.github.io/contact/</loc>
+    <lastmod>2017-08-17T13:38:27-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://OmegaPsiJHU.github.io/blog/</loc>
-    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+    <lastmod>2017-02-07T15:13:41-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OmegaPsiJHU.github.io/board/</loc>
+    <lastmod>2017-08-20T14:03:19-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -158,8 +180,8 @@
   </url>
   
   <url>
-    <loc>https://OmegaPsiJHU.github.io/categories/design/</loc>
-    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
+    <loc>https://OmegaPsiJHU.github.io/conference/</loc>
+    <lastmod>2017-08-20T21:51:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -170,46 +192,16 @@
   </url>
   
   <url>
-    <loc>https://OmegaPsiJHU.github.io/tags/example/</loc>
-    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://OmegaPsiJHU.github.io/faq/</loc>
   </url>
   
   <url>
-    <loc>https://OmegaPsiJHU.github.io/categories/general/</loc>
-    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://OmegaPsiJHU.github.io/tags/hugo/</loc>
-    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://OmegaPsiJHU.github.io/tags/markdown/</loc>
-    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://OmegaPsiJHU.github.io/</loc>
-    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+    <lastmod>2017-08-20T14:03:19-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://OmegaPsiJHU.github.io/password-recovery/</loc>
-  </url>
-  
-  <url>
-    <loc>https://OmegaPsiJHU.github.io/tags/prototype/</loc>
-    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -218,8 +210,11 @@
   
   <url>
     <loc>https://OmegaPsiJHU.github.io/tags/</loc>
-    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OmegaPsiJHU.github.io/about/</loc>
   </url>
   
 </urlset>
